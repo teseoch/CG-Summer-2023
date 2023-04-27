@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug",
+            "program": "/Users/teseo/Documents/scuola/teacing/cg/repos.nosync/CG-Spring-2023/Assignment_1/build/point_in_polygon",
+            "args": ["/Users/teseo/Documents/scuola/teacing/cg/repos.nosync/CG-Spring-2023/Assignment_1/data/points.xyz"],
+            "cwd": "/Users/teseo/Documents/scuola/teacing/cg/repos.nosync/CG-Spring-2023/Assignment_1/build/"
+        }
+    ]
+}
