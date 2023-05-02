@@ -14,9 +14,11 @@ Download and install [Visual Studio](https://visualstudio.microsoft.com).
 
 ### Using Visual Studio alone
 
-If you have a modern version of Visual Studio, you should be able to use the `cmake` integrated in Visual Studio. Just open Visual Studio and click on the `continue without code` option in the bottom ![](img/vs-open.png). This will open Visual Studio without opening the code.
+If you have a modern version of Visual Studio, you should be able to use the `cmake` integrated in Visual Studio. Just open Visual Studio and click on the `continue without code` option in the bottom. This will open Visual Studio without opening the code.
+![](img/vs-open.png)
 
-Then click of the `File` menu, then `open`, and finally `cmake` [](img/vs-cmake.png). Navigate to the folder where the `CMakeLists.txt` and select it. This will run `cmake` and configure your Visual Studio project.
+Then click of the `File` menu, then `open`, and finally `cmake`. Navigate to the folder where the `CMakeLists.txt` and select it. This will run `cmake` and configure your Visual Studio project.
+![](img/vs-cmake.png)
 
 ### Using Visual Studio with cmake
 
