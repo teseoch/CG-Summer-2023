@@ -89,6 +89,6 @@ By the end of the course, the students will design, program, and analyze algorit
 [Assignment 1 - Optional](Assignment_1/README.md)</br>
 [Assignment 2](Assignment_2/README.md)</br>
 [Assignment 3](Assignment_3/README.md)</br>
-<!--[Assignment 4](Assignment_4/README.md)</br>
-[Assignment 5](Assignment_5/README.md)</br> -->
+[Assignment 4 - Optional](Assignment_4/README.md)</br>
+<!--[Assignment 5](Assignment_5/README.md)</br> -->
 
