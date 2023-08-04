@@ -80,7 +80,7 @@ By the end of the course, the students will design, program, and analyze algorit
 [11 Rasterization Implementation](slides/11%20-%20Rasterization%20-%20Implementation.pdf)</br>
 [12 Perspective Projection](slides/12%20-%20Perspective%20Projection.pdf)</br>
 [13 Texture Mapping](slides/13%20-%20Texture%20Mapping.pdf)</br>
-<!--[14 Parametrization](slides/14%20-%20Parametrization.pdf)</br>  -->
+[14 Parametrization](slides/14%20-%20Parametrization.pdf)</br>
 
 ## Assignments
 
